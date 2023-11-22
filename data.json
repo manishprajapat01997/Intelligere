@@ -8,5 +8,10 @@
         "uuid": "7410",
         "port": "9000",
         "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "abc1_def2_gh90",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
     }
 ]
