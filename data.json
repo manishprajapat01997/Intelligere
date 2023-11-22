@@ -3,5 +3,10 @@
         "uuid": "abcd-1111",
         "port": "9000",
         "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "1234-5678",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
     }
 ]
