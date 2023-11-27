@@ -63,5 +63,10 @@
         "uuid": "e3e",
         "port": "9000",
         "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "admin-2",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
