@@ -1,8 +1,12 @@
 [
-  {
-    "uuid": "abcd-1111",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-  }
-
+    {
+        "uuid": "abcd-1111",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "ram",
+        "port": "9000",
+        "abc": "acb"
+    }
 ]
