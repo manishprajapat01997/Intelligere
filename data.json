@@ -43,5 +43,10 @@
         "uuid": "",
         "port": "",
         "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "905711",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
