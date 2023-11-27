@@ -38,5 +38,10 @@
         "uuid": "testing1",
         "port": "9000",
         "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "manu",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
