@@ -33,5 +33,10 @@
         "uuid": "ddspl6",
         "port": "9000",
         "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "testing1",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
