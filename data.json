@@ -23,5 +23,10 @@
         "uuid": "ram-1",
         "port": "9000",
         "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "ram2",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
