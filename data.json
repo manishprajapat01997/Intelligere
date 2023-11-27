@@ -1,1 +1,13 @@
-[{"uuid": "abcd-1111", "port": "9000", "version": "IntelligereSilver_3.1  "}, "uuid", "port", "abc"]
+[
+  {
+    "uuid": "abcd-1111",
+    "port": "9000",
+    "version": "IntelligereSilver_3.1  "
+  },
+  "uuid",
+  "port",
+  "abc",
+  "uuid",
+  "port",
+  "abc"
+]
