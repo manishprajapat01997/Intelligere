@@ -13,5 +13,10 @@
         "uuid": "manu-9057",
         "port": "9000",
         "abc": "acb"
+    },
+    {
+        "uuid": "uum",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
