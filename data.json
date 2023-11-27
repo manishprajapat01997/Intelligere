@@ -33,5 +33,10 @@
         "uuid": "manish",
         "port": "9000",
         "abc": "acb"
+    },
+    {
+        "uuid": "0000000",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
