@@ -8,5 +8,10 @@
         "uuid": "ddspl2",
         "port": "9000",
         "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "ddspl3",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
     }
 ]
