@@ -8,5 +8,10 @@
         "uuid": "ram",
         "port": "9000",
         "abc": "acb"
+    },
+    {
+        "uuid": "manu-9057",
+        "port": "9000",
+        "abc": "acb"
     }
 ]
