@@ -1,2 +1,2 @@
-service_name = IntelligereSilver_3.2
+service_name = IntelligereSilver_3.1
 
