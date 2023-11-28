@@ -74,124 +74,129 @@
         "port": "9000",
         "version": "IntelligereSilver_3.1"
     },
-{
-    "uuid": "efcf43r",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "11",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "hjgyti",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "admin-90",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "77",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "63458",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "123456",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "1",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "1",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "11",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "12",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "123",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "123456",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "manish11",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "admin454",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "kj",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "324",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1"
-},
-{
-    "uuid": "12345",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1"
-},
-{
-    "uuid": "4",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "yh",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1"
-},
-{
-    "uuid": "q",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1"
-},
-{
-    "uuid": "1",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "kytffvy00",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1  "
-},
-{
-    "uuid": "11",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1"
-}
+    {
+        "uuid": "efcf43r",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "11",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "hjgyti",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "admin-90",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "77",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "63458",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "123456",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "1",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "1",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "11",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "12",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "123",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "123456",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "manish11",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "admin454",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "kj",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "324",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "12345",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "4",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "yh",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "q",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "1",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "kytffvy00",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1  "
+    },
+    {
+        "uuid": "11",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
+    },
+    {
+        "uuid": "az1",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1"
+    }
 ]
