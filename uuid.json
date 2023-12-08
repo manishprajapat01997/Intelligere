@@ -1,9 +1,9 @@
 [
-{
-    "uuid": "7",
-    "port": "9000",
-    "version": "IntelligereSilver_3.1",
-    "current_date": "08 Dec 23 16:20:07"
-}
+    {
+        "uuid": "7",
+        "port": "9000",
+        "version": "IntelligereSilver_3.1",
+        "current_date": "08 Dec 23 16:20:07"
+    },
+    "{\n    \"uuid\": \"1\",\n    \"port\": \"9000\",\n    \"version\": \"IntelligereSilver_3.1\",\n    \"current_date\": \"08 Dec 23 18:11:40\"\n}"
 ]
-
